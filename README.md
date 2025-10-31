@@ -1,11 +1,7 @@
 # thephoticzone
-__________.__            __  .__         __________                    
-\______   \  |__   _____/  |_|__| ____   \____    /____   ____   ____  
- |     ___/  |  \ /  _ \   __\  |/ ___\    /     //  _ \ /    \_/ __ \ 
- |    |   |   Y  (  <_> )  | |  \  \___   /     /(  <_> )   |  \  ___/ 
- |____|   |___|  /\____/|__| |__|\___  > /_______ \____/|___|  /\___  >
-               \/                    \/          \/          \/     \/ 
+<img width="527" height="100" alt="ascii-art-text" src="https://github.com/user-attachments/assets/5ee03d21-e5bc-4b3c-b81a-47304a7d5b9d" />
 You are a struggling algae, knocked deep into the ocean with little chance of survival. In this oregon-trail-inspired game, you must fight obstacles and make it back to the photic zone.
+
 
 # How to play
 1. Download the python file and run it on your computer terminal `python photiczone.py`
